@@ -1,0 +1,24 @@
+.navMenu {
+	display: flex;
+	align-content: space-around;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: nowrap;
+	flex-direction: row;
+}
+.navMenu a,
+.navMenu span {
+	color: #000000;
+	border-bottom: 2xp solid rebeccapurple;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-left: 2rem;
+	font-weight: 500;
+	display: inline-block;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.navMenu a:hover,
+.navMenu span:hover {
+	color: #876712;
+}

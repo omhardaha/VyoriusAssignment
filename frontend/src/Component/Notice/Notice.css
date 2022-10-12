@@ -1,0 +1,39 @@
+.bg-transperent {
+	background-color: rgba(255, 255, 255, 0.437);
+}
+.cards-borde {
+    filter: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
+}
+.heading {
+	text-align: center;
+}
+.heading__title {
+	font-weight: 600;
+}
+.heading__credits {
+	margin: 10px 0px;
+	color: #888888;
+	font-size: 25px;
+	transition: all 0.5s;
+}
+.heading__link {
+	text-decoration: none;
+}
+.soft-text {
+	color: #716a6a;
+	font-size: smaller;
+}
+.border-input {
+	border: 1px solid #906a4a5b;
+	width: 90%;
+}
+
+
+.ccentre {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.main-container {
+	max-width: "107px";
+}

@@ -1,0 +1,33 @@
+.border-input2 {
+	/* border: 1px solid green; */
+   
+    background-color: rgba(238, 231, 224, 0.335);
+    color: rgb(87, 87, 87);
+	padding: 4px;
+	padding-left: 10px;
+	font-size: medium;
+	width: 90%;
+	margin: 7px 0;
+}
+.navMenu a:hover {
+	color: #fddb3a;
+}
+.justify-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.button-border {
+	margin-top: 3px;
+	border: 1px solid green;
+	padding: 8px;
+}
+.button-border:hover {
+	border: 1px solid rgb(255, 255, 255);
+	background-color: blanchedalmond;
+	padding: 8px;
+}
+.button-border:active {
+	border: 1px solid rgb(255, 255, 255);
+	background-color: rgb(255, 206, 133);
+}
