@@ -12,7 +12,7 @@ npm start
 
 
 Run The Node(BackEnd)
-Open Terminal 1
+Open Terminal 2
 ```
 cd .\server\
 npm i
